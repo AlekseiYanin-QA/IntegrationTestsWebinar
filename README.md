@@ -23,4 +23,4 @@ In this workshop, we have our own service which calls external dependency - Goog
    ./gradlew build
 4. Запустите тесты:
 ```bash
-  ./gradlew test
+./gradlew test
