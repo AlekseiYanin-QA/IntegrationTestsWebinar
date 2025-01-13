@@ -21,6 +21,6 @@ In this workshop, we have our own service which calls external dependency - Goog
 3. Выполните команду для сборки:
    ```bash
    ./gradlew build
-Запустите тесты:
+4. Запустите тесты:
 ```bash
   ./gradlew test
